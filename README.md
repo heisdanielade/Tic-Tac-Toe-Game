@@ -1,9 +1,9 @@
 
 ## Project Title:
-Tic-Tac-Toe Game
+Tic-Tac-Toe Game: This game was developed as my first semester project in collaboration with a group of classmates. It served as an introductory exploration into programming and team-based software development.
 
 ## Project Description:
-This Tic-Tac-Toe Game is a versatile Python application that offers a classic gaming experience with multiple modes of play. Users can select between Human vs. Human, Human vs. AI, or AI vs. AI gameplay options, providing a fun and educational environment to understand game strategy and AI behavior. The application features a clean, user-friendly interface for smooth navigation and game setup.
+This game is a versatile Python application that offers a classic gaming experience with multiple modes of play. Users can select between Human vs. Human, Human vs. AI, or AI vs. AI gameplay options, providing a fun and educational environment to understand game strategy and AI behavior. The application features a clean, user-friendly interface for smooth navigation and game setup.
 
 ## Features:
 1. Multiple Game Modes: Enjoy the game with a friend, challenge a computer opponent, or observe an AI vs. AI showdown.

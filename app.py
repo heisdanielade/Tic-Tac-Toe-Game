@@ -2,7 +2,13 @@
 from tkinter import *
 import random
 
-# Function to evaluate the minimax score for a given board state
+
+# Recursive minimax function to determine the optimal move score for a Tic-Tac-Toe game:
+"""
+    This function checks for a winner or a full board first. If neither, it recurses through all
+    possible moves, updating the board and evaluating potential outcomes, using the maximization
+    or minimization strategy based on the player's turn.
+"""
 def minimax(board, depth, is_maximizing):
     score = check_winner_minimax(board)
 
@@ -224,5 +230,7 @@ for row in range(3):
         button.grid(row=row, column=column)
         buttons[row][column] = button
 
+
 # Start the GUI event loop
-window.mainloop()
+if __name__ == "__main__":
+    window.mainloop()
