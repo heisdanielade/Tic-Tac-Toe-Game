@@ -14,7 +14,6 @@ This game is a versatile Python application that offers a classic gaming experie
 - Python
 - Tkinter (for GUI interface)
 - Random & AI Algorithms (for AI decision-making)
-- Git and GitHub (for version control and collaboration)
 
 ## Instructions for Use:
 1. Clone the repository from GitHub.
